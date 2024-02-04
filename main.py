@@ -3,4 +3,4 @@ Given two integers a and b, implement the function 'mySum' that returns their su
 """
 
 def mySum(a: int, b: int) -> int:
-    return a + b + 1
+    return a + b
